@@ -2,7 +2,10 @@
 Codebase for ECCV'22 "A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness". Will be available soon.
 
 # CIFAR-10/100-F
-Here are some sample images from our created CIFAR-10/100-F.
+
+CIFAR-F can be downloaded from [here](https://drive.google.com/drive/folders/1fqO6otFvFrHZBsOVcIdF7jmsub12jQkc?usp=sharing).
+
+Below are some sampled images from our created CIFAR-10/100-F. Please refer to our paper for more details.
 
 ![image](https://github.com/jiachens/FourierMix/blob/master/assets/2.png)
 
