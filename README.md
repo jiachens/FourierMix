@@ -1,5 +1,5 @@
 # FourierMix
-Codebase for ECCV'22 "A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness". Official code will be available soon. Messy and un-organized code could be found [here](https://github.com/jiachens/FourierMix_archived).
+Codebase for ECCV'22 "A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness". Official code will be available soon. 
 
 # CIFAR-10/100-F
 
